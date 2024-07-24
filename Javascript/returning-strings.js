@@ -7,9 +7,9 @@
 // Your program should return, "Hello, <name> how are you doing today?".
 // [Make sure you type the exact thing I wrote or the program may not execute properly]
 
-// Solution:
+// My Solution:
 function greet(name){
-  return `Hello, ${name} how are you doing today?`; // Use template literals to create a string that includes the value of `name`
+  return `Hello, ${name} how are you doing today?`; // I use template literals to create a string that includes the value of `name`
 }
 
 // Example usage:
