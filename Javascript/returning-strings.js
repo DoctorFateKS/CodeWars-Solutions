@@ -9,6 +9,9 @@
 
 // Solution:
 function greet(name){
-  return `Hello, ${name} how are you doing today?`;
+  return `Hello, ${name} how are you doing today?`; // Use template literals to create a string that includes the value of `name`
 }
 
+// Example usage:
+// console.log(greet("Alice"));  // Output: "Hello, Alice how are you doing today?"
+// console.log(greet("Bob"));    // Output: "Hello, Bob how are you doing today?"
