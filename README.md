@@ -5,7 +5,7 @@ This repository contains my solutions to various CodeWars challenges. Each solut
 ## Statistics by Language
 
 ### JavaScript
-- **Total Challenges Completed**: 1
+- **Total Challenges Completed**: 3
 - **Top Challenges**:
 
 ## How to Use This Repository
