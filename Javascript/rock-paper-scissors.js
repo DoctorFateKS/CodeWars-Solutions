@@ -19,7 +19,7 @@ const rps = (p1, p2) => {
   };
 
 // Best Practice on Codewars:
-const rps = (p1, p2) => {
+const rps2 = (p1, p2) => {
     if (p1 === p2) return "Draw!";     // check if both players made the same choice, resulting in a draw
     var rules = {rock: "scissors", paper: "rock", scissors: "paper"};      // Define the rules in an object, each key is a choice, and its value is the choice it beats
     if (p2 === rules[p1]) {     // Check if Player 2's choice matches what Player 1's choice beats. If it does, Player 1 wins
