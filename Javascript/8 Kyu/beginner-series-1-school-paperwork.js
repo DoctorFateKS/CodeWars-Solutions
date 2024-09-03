@@ -11,7 +11,7 @@
 */
 
 function paperwork(n, m) {
-    return n > 0 && m > 0 ? n * m : 0; // 🧠 Check if both 'n' (number of classmates) and 'm' (number of pages) are positive numbers. If true, return the product of n and m (total pages needed). If either 'n' or 'm' is not positive (i.e., 0 or negative), return 0 as no pages are needed.
+    return n > 0 && m > 0 ? n * m : 0; // Check if both 'n' (number of classmates) and 'm' (number of pages) are positive numbers. If true, return the product of n and m (total pages needed). If either 'n' or 'm' is not positive (i.e., 0 or negative), return 0 as no pages are needed.
 }
 
 /* 🧪 Example Usage:
