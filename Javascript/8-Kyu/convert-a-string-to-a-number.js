@@ -1,4 +1,4 @@
-/* Challenge Title: Counting Sheep...
+/* Challenge Title: Convert a String to a Number
 Difficulty: 8 kyu
 URL: https://www.codewars.com/kata/544675c6f971f7399a000e79
 
