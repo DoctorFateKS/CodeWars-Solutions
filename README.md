@@ -6,7 +6,7 @@ Welcome to my repository, where you'll find my solutions to various CodeWars cha
 
 ## 📊 Statistics by Language
 
-### JavaScript
+### JavaScrip
 - **Total Challenges Completed**: `19`
 - **Top Challenges**: _Coming Soon!_
 
