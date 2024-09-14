@@ -7,7 +7,7 @@ Welcome to my repository, where you'll find my solutions to various CodeWars cha
 ## 📊 Statistics by Language
 
 ### JavaScript
-- **Total Challenges Completed**: `21`
+- **Total Challenges Completed**: `22`
 - **Top Challenges**: _Coming Soon!_
 
 ---
