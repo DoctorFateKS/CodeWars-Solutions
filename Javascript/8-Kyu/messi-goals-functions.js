@@ -13,7 +13,7 @@ My Solution: */
 
 function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
     return laLigaGoals + copaDelReyGoals + championsLeagueGoals; // sum of goals in the three leagues
-  }
+}
 
 /* Example usage:
 5, 10, 2  -->  17 */
