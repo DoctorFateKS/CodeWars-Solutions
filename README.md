@@ -10,6 +10,10 @@ Welcome to my repository, where you'll find my solutions to various CodeWars cha
 - **Total Challenges Completed**: `45`
 - **Top Challenges**: _Coming Soon!_
 
+### Ruby
+- **Total Challenges Completed**: `1`
+- **Top Challenges**: _Coming Soon!_
+
 ---
 
 ## 📚 Table of Contents
