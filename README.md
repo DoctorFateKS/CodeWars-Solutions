@@ -11,7 +11,7 @@ Welcome to my repository, where you'll find my solutions to various CodeWars cha
 - **Top Challenges**: _Coming Soon!_
 
 ### Ruby
-- **Total Challenges Completed**: `1`
+- **Total Challenges Completed**: `2`
 - **Top Challenges**: _Coming Soon!_
 
 ---
